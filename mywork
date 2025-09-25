@@ -1,5 +1,10 @@
 
 // Program to compute discount
+/*
+*Name: Cyprian Kameli
+*Reg No: J77-10537-2024
+*Description:The Discount Program is a Java application that calculates the amount
+a customer has to pay after applying a discount based on the value of their purchase.
 import java.util.Scanner;
 
 public class Discount {
@@ -29,4 +34,5 @@ public class Discount {
         System.out.println("Amount to Pay: " + amountToPay);
 
         scanner.close();
+
     }
